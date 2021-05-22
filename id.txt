@@ -1,0 +1,3 @@
+rfid card : 87 66 71 62
+rfid plosc : BC 31 D0 22
+
