@@ -1,4 +1,7 @@
-rfid card : 87 66 71 62
+fid card : 87 66 71 62
 rfid plosc : BC 31 D0 22
 
+<<<<<<< HEAD
 nova sprememba
+=======
+>>>>>>> 990c3ff651c2edcfcb16b308329b8ac2cc7a2046
